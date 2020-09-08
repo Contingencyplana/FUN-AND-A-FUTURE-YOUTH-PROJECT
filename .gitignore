@@ -1,0 +1,8 @@
+########################################################################
+#  FUN AND A FUTURE YOUTH PROJECT:                                     #
+#  https://github.com/Contingencyplana/FUN-AND-A-FUTURE-YOUTH-PROJECT  #
+########################################################################
+
+# Ignore local HTML preview docs:
+/*.htm
+/*.html
