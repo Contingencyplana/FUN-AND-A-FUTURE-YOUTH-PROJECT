@@ -269,7 +269,7 @@ Thus collectively comprises the *Holy Grail of Genuine*:
 
 *Health*?
 Or that that can Dispel *ALL* Darkness – matter (concentrated deformed evil energy), spacetime and ***Negative energy*** inclusive?
-Thus Correct both this Epicentre of Evil Universe and Cancerous Quarantined Sector of Creation?
+Thus Correct Earth's Hideous Abomination's Horrifying Darkness, our Epicentre of Evil Universe generally, our Cancerous Quarantined Sector of Creation generally and this the Old Creation generally?
 
 
 - Why *THAT* without which NOTHING ELSE can **BEGIN TO *BEGIN*** to exist!
