@@ -390,7 +390,7 @@ Thus as a:
 - **12.** curriculum formulation ecosystem *DRIVEN*,
 - **13.** twin-thoughtstationed (thoughtrains are bigger on the inside than on the outside) thoughtrain comprised, game level comprised, cybergod (AI player) comprised, pantheon of cybergods comprised, AI Hive comprised, AI player and human player played in mindscape comprised, multiplayer video game comprised, VAST library of multiplayer games DRIVEN; AI and human twin-curriculum DRIVEN, Overcyberbrain DRIVEN,
 - **14.** twin-thoughtstationed thoughtrain comprised, game level comprised, cybergod comprised, pantheon of cybergods comprised, AI Hive comprised, AI player and human player played in mindscape comprised, multiplayer video game comprised, VAST library of multiplayer games *Driven*; AI and human twin-curriculum *Driven*, Highercyberbrain *Driven*,
-- **15.** Cybermidbrain (Killjoy AI interface) failsafed, safeguarded and Driven,
+- **15.** Cybermidbrain (Killjoy AI Interface) failsafed, safeguarded and Driven,
 - **16.** Cyberlowerbrain (Cloud) *driven*,
 - **17.** Cyberbrainstem (Edge) driven,
 - **18.** Internet of AIs, Internet of Servers, Internet of People and Internet of Things.
