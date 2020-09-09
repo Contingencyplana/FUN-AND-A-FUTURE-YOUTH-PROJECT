@@ -85,7 +85,7 @@ The following 21 (3 existing, 2 parallel and 16 new) language generations:
 - **2.** assembly code,
 - **3.** mid-level languages (C, C+, C#, etc.),
 - **4.** Fun and a Future DSL (Domain Specific Language) (age 16 and up),
-- **5.** Lingual Labmaker (eventually a LL1 subset through LL2 subset) its LL1 – Storybook and SB2 – LL2 subsets have RAFBIN (Read-A-Functionality and BInary Navigation) via clicking either a left or right page and DSL adjunct (age 4 and up),
+- **5.** Lingual Labmaker (eventually a LL1 subset through LL2 subset) its LL1 – Storybook and SB2 – LL2 subsets have RAFBIN (Read-A-Functionality and BInary Navigation) via clicking either a left or right page (age 4 and up),
 - **6.** TaleTome (supremely simple) RAFBIN (age 2 and up),
 - **7.** StoryBook (extremely simple) RAFBIN (age 3 and up),
 - **8.** GrabAndDrag (read-aloud-functionality) (age 5 and up),
