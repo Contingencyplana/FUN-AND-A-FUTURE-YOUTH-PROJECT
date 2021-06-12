@@ -1,7 +1,5 @@
 FUN AND A FUTURE YOUTH PROJECT
 
-OVERVIEW:
-
 FAAF (Fun And A Future) Youth Project is the First Phase of a Genuine Broad-Spectrum Solution for Earth.
 
 Storybook MMO (Massively Multiplayer Online) computer language is the First Stage of FAAF Youth Project.
