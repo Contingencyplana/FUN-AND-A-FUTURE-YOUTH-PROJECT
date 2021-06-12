@@ -50,4 +50,4 @@ comprised simplescape design and construction,
 24.	programming and
 25.	gameplay testing.
 
-For more information contact: hyper5ai@yaoo.com.au
+For more information contact: hyper5ai@yahoo.com.au
