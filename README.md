@@ -1,11 +1,11 @@
 FUN AND A FUTURE YOUTH PROJECT
 
-Overview
+OVERVIEW
 FAAF (Fun And A Future) Youth Project is the First Phase of a Genuine Broad-Spectrum Solution for Earth.
 
 Storybook MMO (Massively Multiplayer Online) computer language is the First Stage of FAAF Youth Project.
 
-Storybook MMO computer Language Career Structure
+STORYBOOK MMO COMPUTER LANGUAGE CAREER STRUCTURE
 Storybook MMO computer language career structure to initially comprise and involve:
 1.	administration,
 2.	illustration (low-game-level kindergarten stickfigure-and-blotch style art and high-game-level preschool style illustration) and game graphics generally,
