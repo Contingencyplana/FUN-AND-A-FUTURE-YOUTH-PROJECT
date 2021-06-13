@@ -8,10 +8,10 @@ STORYBOOK MMO COMPUTER LANGUAGE CAREER STRUCTURE
 
 Storybook MMO computer language career structure to initially comprise and involve:
 1.	administration,
-2.	illustration (low-game-level kindergarten stickfigure-and-blotch style art and high-game-level preschool style illustration) and game graphics generally,
+2.	game graphics (low-game-level kindergarten stickfigure-and-blotch style and high-game-level preschool style, illustration design and construction inclusive),
 3.	poetry (low-game-level 4 syllable word bubbles and high-game-level 8 syllable word bubbles) composition,
 4.	screenshot design and construction,
-5.	optional (can be toggled on and off by the parents of very young players) read-aloud functionality and game sound engineering generally,
+5.	game sound engineering (optional – can be toggled on and off by the parents of very young players – read-aloud functionality inclusive),
 6.	binary navigated, screenshot comprised, thoughtrainstationed, thoughtrain design and construction,
 7.	thoughtrain comprised AI player design and construction,
 8.	game level design and construction,
@@ -50,4 +50,4 @@ comprised simplescape design and construction,
 24.	programming and
 25.	gameplay testing.
 
-For more information contact: hyper5ai@yahoo.com.au
+For more information contact: hyper5ai@yaoo.com.au
