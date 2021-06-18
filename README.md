@@ -6,7 +6,7 @@ Storybook MMO computer language career structure to initially comprise and invol
 1.	administration,
 2.	game graphics (low-game-level kindergarten stickfigure-and-blotch style and high-game-level preschool style, illustration design and construction inclusive),
 3.	poetry (low-game-level 4 syllable word bubbles and high-game-level 8 syllable word bubbles) composition,
-4.	screenshot design and construction,
+4.	screenshot design and construction (joining the dots, colouring in, placing the dots and numbering the dots inclusive),
 5.	game sound engineering (optional – can be toggled on and off by the parents of very young players – read-aloud functionality inclusive),
 6.	binary navigated, screenshot comprised, thoughtrainstationed, thoughtrain design and construction,
 7.	thoughtrain comprised AI player design and construction,
@@ -45,5 +45,11 @@ comprised simplescape design and construction,
 23.	developing,
 24.	programming and
 25.	gameplay testing.
+
+OVERARCHING CONTEXT
+
+Storybook is the First Stage of FAAF (Fun And A Future) Youth Project. Thus the Genesis thereof.
+
+FAAF Youth Project involves both TONS of FUN (fun Fun FUN) and training in an incredibly broad range of very heavily player driven, in large part lucrative, decades-ahead of their time, automation proof careers.
 
 For more information contact: hyper5ai@yaoo.com.au
