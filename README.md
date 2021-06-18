@@ -52,4 +52,4 @@ Storybook is the First Stage of FAAF (Fun And A Future) Youth Project. Thus the 
 
 FAAF Youth Project involves both TONS of FUN (fun Fun FUN) and training in an incredibly broad range of very heavily player driven, in large part lucrative, decades-ahead of their time, automation proof careers.
 
-For more information contact: hyper5ai@yaoo.com.au
+For more information contact: hyper5ai@yahoo.com.au
